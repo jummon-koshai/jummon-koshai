@@ -33,19 +33,5 @@ Here are some of my projects. Links will be updated as I finalize them:
 - **[Project 6]** — *Link to be updated*  
 - **[Project 7]** — *Link to be updated*  
 
-*(Add more projects here as you finalize them.)*
-
 ---
-
-## Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jummon-koshai&layout=compact&theme=radical)  
-![Stats](https://github-readme-stats.vercel.app/api?username=jummon-koshai&show_icons=true&theme=radical)
-
----
-
-## Connect with Me
-
-🌐 Portfolio: [jmmn.tech](https://jmmn.tech)  
-🐙 GitHub: [@jummon-koshai](https://github.com/jummon-koshai)  
-📧 Email: khairulhaq52@gmail.com 
+ 
