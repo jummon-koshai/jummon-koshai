@@ -1,47 +1,42 @@
 # Hi there, I'm Mohammad Khairul Haque 👋
 
-**Machine Learning & AI Software Developer | Full-Stack Engineer | Vibe Coder**  
-
-Welcome to my GitHub! I love building AI-powered applications, scalable web systems, and exploring new technologies that push the boundaries of software development.  
+I'm a Machine Learning & AI developer, full-stack enthusiast, and vibe coder — building AI-powered apps, scalable systems, and backend magic. You can check out my projects and experiments on my portfolio: [jmmn.tech](https://jmmn.tech).
 
 ---
 
-## 🚀 About Me
-- 💻 Backend & Frontend Development: Python, Go, Rust, JavaScript, TypeScript, C++, C#, Java  
-- 🤖 AI & ML: PyTorch, TensorFlow, Keras, OpenCV, Hugging Face, LangChain, GANs, NLP, Computer Vision  
-- ☁️ Cloud & DevOps: AWS, GCP, Docker, Kubernetes, Terraform, CI/CD  
-- 🌐 Web & Mobile: React, Next.js, Vue.js, Node.js, Express, Django, React Native, Flutter  
-- 📊 Data & Analytics: NumPy, Pandas, Matplotlib, Seaborn, Plotly, ETL Pipelines  
+## Currently
+
+- Building **AI tools and automation platforms** with Go and Python.  
+- Working on **Kubernetes & Helm deployments** to streamline CI/CD workflows.  
+- Experimenting with **LangChain, transformers, and computer vision projects**.  
+- Open to freelancing opportunities and collaborative projects!
 
 ---
 
-## 🏆 Featured Projects
+## Fun Fact
 
-### [BDSoil](https://jmmn.tech/bdsoil)
-AI-enabled platform for soil analysis and smart agricultural recommendations.
-
-### [Prishthoposhokota Sohaihok](https://jmmn.tech)
-AI-powered personal finance co-pilot providing predictive insights and autonomous optimization.
-
-### [KODESK](https://jmmn.tech/kodesk)
-Coding education platform combining learning, practice, and gameplay with secure Docker execution and XP tracking.
-
-### [JMMN X SHAW](https://jmmn.tech/jmmn-x-shaw)
-Personal/full-stack web project showcasing dynamic content handling, backend logic, and database integration.
+Yes, I started coding with **Python**, but somehow ended up loving Go and Rust more. 😎  
 
 ---
 
-## ⚡ Fun Fact
-I am a **vibe coder** – I take complex problems and turn them into elegant, working solutions with a touch of creativity. I love experimenting, learning new frameworks, and shipping things that work in the real world.  
+## Featured Projects
+
+- **[BDSoil](https://jmmn.tech/bdsoil)** — AI-powered soil analysis platform for smarter agriculture.  
+- **[Prishthoposhokota Sohaihok](https://jmmn.tech)** — Personal finance co-pilot with predictive insights.  
+- **[KODESK](https://jmmn.tech/kodesk)** — Interactive coding education platform with secure Docker-based execution.  
+- **[JMMN X SHAW](https://jmmn.tech/jmmn-x-shaw)** — Full-stack personal web project.
 
 ---
 
-## 📫 Connect with Me
-- 🌐 Portfolio: [jmmn.tech](https://jmmn.tech)  
-- 💼 Upwork: [Profile](https://www.upwork.com/freelancers/~01ccbe2502a4a99583)  
-- 🐙 GitHub: [@jummon-koshai](https://github.com/jummon-koshai)  
-- 📧 Email: khairulhaq52@gmail.com  
+## Statistics
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jummon-koshai&layout=compact&theme=radical)  
+![Stats](https://github-readme-stats.vercel.app/api?username=jummon-koshai&show_icons=true&theme=radical)
 
 ---
 
-*“Code is poetry, AI is my brush, and GitHub is my canvas.”* 🎨
+## Connect with Me
+
+🌐 Portfolio: [jmmn.tech](https://jmmn.tech)  
+🐙 GitHub: [@jummon-koshai](https://github.com/jummon-koshai)  
+📧 Email: khairulhaq52@gmail.com  
