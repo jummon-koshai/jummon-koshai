@@ -1,8 +1,9 @@
-# Hi there, I'm Mohammad Khairul Haque 👋
+# Hi there, I'm Mohammad Khairul Haque 👋  
+### Known as **Jummon**
 
-I'm a Machine Learning & AI Software Developer, building AI-powered applications and scalable full-stack systems. I specialize in modern ML frameworks, cloud technologies, and efficient, real-world solutions.  
+I'm a **Machine Learning & AI Software Developer** building **AI-powered applications** and **scalable full-stack systems**. I specialize in **modern ML frameworks**, **cloud technologies**, and delivering **efficient, real-world solutions**.  
 
-Check out my portfolio: [jmmn.tech](https://jmmn.tech)
+💻 **Portfolio:** [JMMN](https://jmmn.tech)  
 
 ---
 
