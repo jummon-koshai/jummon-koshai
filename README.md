@@ -1,30 +1,39 @@
 # Hi there, I'm Mohammad Khairul Haque 👋
 
-I'm a Machine Learning & AI developer, full-stack enthusiast, and vibe coder — building AI-powered apps, scalable systems, and backend magic. You can check out my projects and experiments on my portfolio: [jmmn.tech](https://jmmn.tech).
+I'm a Machine Learning & AI Software Developer, building AI-powered applications and scalable full-stack systems. I specialize in modern ML frameworks, cloud technologies, and efficient, real-world solutions.  
+
+Check out my portfolio: [jmmn.tech](https://jmmn.tech)
 
 ---
 
 ## Currently
 
-- Building **AI tools and automation platforms** with Go and Python.  
+- Developing **AI tools and automation platforms** with Python and Go.  
 - Working on **Kubernetes & Helm deployments** to streamline CI/CD workflows.  
-- Experimenting with **LangChain, transformers, and computer vision projects**.  
-- Open to freelancing opportunities and collaborative projects!
+- Exploring **LangChain, transformers, and computer vision projects**.  
+- Open to freelancing opportunities and collaborative projects.
 
 ---
 
 ## Fun Fact
 
-Yes, I started coding with **Python**, but somehow ended up loving Go and Rust more. 😎  
+Yes, I started coding with **Python**, but now I enjoy building systems with Go and Rust too. 😎  
 
 ---
 
 ## Featured Projects
 
-- **[BDSoil](https://jmmn.tech/bdsoil)** — AI-powered soil analysis platform for smarter agriculture.  
-- **[Prishthoposhokota Sohaihok](https://jmmn.tech)** — Personal finance co-pilot with predictive insights.  
-- **[KODESK](https://jmmn.tech/kodesk)** — Interactive coding education platform with secure Docker-based execution.  
-- **[JMMN X SHAW](https://jmmn.tech/jmmn-x-shaw)** — Full-stack personal web project.
+Here are some of my projects. Links will be updated as I finalize them:
+
+- **BDSoil** — AI-powered soil analysis platform for smarter agriculture.  
+- **Prishthoposhokota Sohaihok** — Personal finance co-pilot with predictive insights.  
+- **KODESK** — Interactive coding education platform with secure Docker-based execution.  
+- **JMMN X SHAW** — Full-stack personal web project.  
+- **[Project 5]** — *Link to be updated*  
+- **[Project 6]** — *Link to be updated*  
+- **[Project 7]** — *Link to be updated*  
+
+*(Add more projects here as you finalize them.)*
 
 ---
 
@@ -39,4 +48,4 @@ Yes, I started coding with **Python**, but somehow ended up loving Go and Rust m
 
 🌐 Portfolio: [jmmn.tech](https://jmmn.tech)  
 🐙 GitHub: [@jummon-koshai](https://github.com/jummon-koshai)  
-📧 Email: khairulhaq52@gmail.com  
+📧 Email: khairulhaq52@gmail.com 
