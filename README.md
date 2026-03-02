@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://jmmn.tech">
-    <img src="https://raw.githubusercontent.com/jummon-koshai/jummon-koshai/main/assets/JMMN.png" alt="JMMN Logo" width="220"/>
+    <img src="https://raw.githubusercontent.com/jummon-koshai/jummon-koshai/main/assets/JMMN.gif" alt="JMMN Animation" width="220"/>
   </a>
 </p>
 
